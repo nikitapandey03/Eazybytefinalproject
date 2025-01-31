@@ -1,1 +1,1 @@
-# Eazybytefinalproject
+# Eazybytefinalproject I create a toy event management and exhibition website using HTML, CSS, and JavaScript, with a little help from Google for image downloads. This platform is designed not just for events but also for showcasing cultural and modern toys, bringing together tradition, innovation, and creativity. From organizing exhibitions to managing interactive showcases, this website is a hub for toy lovers, brands, and collectors to explore, connect, and celebrate the joy of play.
